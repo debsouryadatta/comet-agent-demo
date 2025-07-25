@@ -1,2 +1,1 @@
-# my-new-project
-A sample repository for demonstration purposes
+This repository is totally created by Comet Agent Browser.
